@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metis Project Luther: Bookz II Moviez
+title: Metis Project Luther - Bookz II Moviez
 date: 2016-04-30
 ---
 
